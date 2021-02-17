@@ -1,20 +1,19 @@
 # ip5
-Project Title
-One Paragraph of project description goes here
+GET IT
+GET IT is a web application for wholesalers to login and upload there products so that other users such as retailers can view the wholesalers profucts.
 
 # Changes for collaboration with fork in ip5-branch
 
 # Changes for collaboration demo
 
 Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites
-What things you need to install the software and how to install them
+Install and run chrome web browser and Xampp server
 
 Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+Install Xampp Sever.
+-make installation package executable by:$ cd /home/[username]/Downloads , $ chmod 755 [package name] ,launch $ sudo ./[package name] ,
 
 Say what the step will be
 
